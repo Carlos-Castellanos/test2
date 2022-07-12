@@ -1,0 +1,23 @@
+https://www.freecodecamp.org/espanol/news/subir-a-github-lo-suficientemente-simple-para-poetas/
+Crear el repositori
+git init
+git add . 
+git commit -m "inserta Mensaje aquí"
+git remote add origin https://github.com/Carlos-Castellanos/testgit.git
+git remote -v
+git push origin master
+
+
+
+primero crear el reporsitorio en github.com
+https://github.com/Carlos-Castellanos/test2.git
+se clona la carpeta
+git clone https://github.com/Carlos-Castellanos/test2.git
+se crean los archvios nuevos
+git status: indica los archivos se alaterar
+  (use "git add <file>..." to include in what will be committed)
+
+git add .  agrega los archivos
+
+git status: indica los archivos se alaterar
+   (use "git rm --cached <file>..." to unstage)
